@@ -11,6 +11,8 @@ http://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/resources/sof
 
 - Run leukaemiaDifferentiationTherapy.r
 
+- After running the R file, the rank ordered list of compounds would be generated in the results folder. Some detailed gsea output would be generated in the output directory which can be ignored.
+
 - Refer to this link under “Preparing Data Files for GSEA” for description of file types that are input to gsea (gct, cls, chip)
 https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html?_Other_Ways_to
 
