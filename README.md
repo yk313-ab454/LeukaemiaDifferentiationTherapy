@@ -6,7 +6,7 @@ http://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/resources/sof
 
 - java 8 installation is a requirement.
 
-- java should be added to environmental variables in windows and added to the Path in linux.
+- java should be added to environmental variables in windows or added to the Path in linux.
 
 - Refer to this link under “Preparing Data Files for GSEA” for description of file types that are input to gsea (gct, cls, chip)
 https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html?_Other_Ways_to
