@@ -7,7 +7,7 @@ http://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/resources/sof
 
 - java 8 installation is a requirement.
 
-- java should be added to environmental variables in windows or added to the Path in linux.
+- java should be added to the environmental variables in windows or added to the Path in linux.
 
 - Run leukaemiaDifferentiationTherapy.r
 
